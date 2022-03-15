@@ -1,0 +1,7 @@
+ Q3)How to write a comment in JavaScript?
+
+Ans-
+      There are two types of comments in JavaScript.
+
+1)   Single Line Comment: It is represented by // (double forward slash)
+2)  Multi-Line Comment: Slash represents it with asterisk symbol as /* write comment here */

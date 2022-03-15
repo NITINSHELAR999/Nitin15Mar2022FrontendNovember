@@ -1,0 +1,9 @@
+Q2)What is the use of history object?
+
+Ans-The history object of a browser can be used to switch to history pages such as back and forward from the current page or another page. There are three methods of history object.
+
+       history.back() - It loads the previous page.
+       history.forward() - It loads the next page.
+       history.go(number) - The number may be positive for forward, negative for backward. It loads the given page number.
+
+       The JavaScript history object represents an array of URLs visited by the user. By using this object, you can load previous, forward or any particular page.
